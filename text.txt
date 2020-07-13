@@ -1,0 +1,8 @@
+https://medium.com/swlh/an-introduction-to-web-scraping-with-puppeteer-3d35a51fdca0
+https://stackoverflow.com/questions/47966510/how-to-fill-an-input-field-using-puppeteer
+https://kb.apify.com/en/articles/1640711-how-to-log-in-to-a-website-using-puppeteer
+https://github.com/GoogleChrome/puppeteer/blob/v1.8.0/docs/api.md?source=post_page---------------------------#pagescreenshotoptions
+
+
+node index.js
+
